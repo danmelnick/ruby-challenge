@@ -1,0 +1,39 @@
+{
+  "disputes": [
+    {
+      "id": "1",
+      "name": "Abbott Elementary vs. The City of Philadelphia",
+      "status": "awaiting_evidence",
+      "dispute_type": "arbitration",
+      "filed_on": "2021-03-05"
+    },
+    {
+      "id": "2",
+      "name": "Garfield vs. Jon Arbuckle",
+      "status": "awaiting_evidence",
+      "dispute_type": "mediation",
+      "filed_on": "2010-06-22"
+    },
+    {
+      "id": "3",
+      "name": "Anakin Skywalker vs the Jedi Order",
+      "status": "awaiting_hearing",
+      "dispute_type": "arbitration",
+      "filed_on": "2015-01-01"
+    },
+    {
+      "id": "4",
+      "name": "Killmonger vs. The Nation of Wakanda",
+      "status": "awaiting_decision_signatures",
+      "dispute_type": "arbitration",
+      "filed_on": "2019-05-10"
+    },
+    {
+      "id": "5",
+      "name": "Severus Snape vs. Hogwarts School of Wizardry",
+      "status": "closed_settled",
+      "dispute_type": "mediation",
+      "filed_on": "2012-07-29"
+    }
+  ]
+}
