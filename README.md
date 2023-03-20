@@ -67,7 +67,7 @@ You can write your main output code in `bin/main.rb` if you'd like.
 
 6. Now that a dispute can be paused with a reason, let's discuss the circumstances under which a dispute can be paused.
     + Should any/all disputes be able to transition to a paused state?
-    + Eventually, our app would allow an end user might to pause disputes. Who might be allowed to do so?
+    + Eventually, our app would allow an end user to pause disputes. Who & what types of users might be allowed to do so?
     + How would you go about finding out this information? How might you begin to design such a solution? Feel free to pseudocode or discuss your ideas.
 
 ### Discussion
